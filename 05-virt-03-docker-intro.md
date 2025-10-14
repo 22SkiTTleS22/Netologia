@@ -10,6 +10,7 @@ _________________________________________________
 Запросы идут на порт 80, а nginx ждет их на 81
 <img width="1112" height="83" alt="image" src="https://github.com/user-attachments/assets/862150d5-434c-4f94-aa1f-cdde4c1b01d5" />
 _________________________________________________
+
 Задача 4
 <img width="1516" height="166" alt="image" src="https://github.com/user-attachments/assets/2f48c71f-0cb9-453f-97d2-38799dd095dc" />
 <img width="1584" height="325" alt="image" src="https://github.com/user-attachments/assets/adb7fbf0-f9cc-42d7-a131-13018febbf61" />
