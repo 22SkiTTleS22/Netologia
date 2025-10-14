@@ -3,6 +3,7 @@
 <img width="2528" height="482" alt="image" src="https://github.com/user-attachments/assets/6e3002fb-f6af-4595-95ff-a67c781d802c" />
 _________________________________________________
 Задача 3
+
 <img width="873" height="843" alt="image" src="https://github.com/user-attachments/assets/c8f8f576-a2fc-497c-8724-605bc0b70d89" />
 <img width="890" height="292" alt="image" src="https://github.com/user-attachments/assets/52982f88-19f8-4a29-92b8-4635c92332ff" />
 <img width="1143" height="171" alt="image" src="https://github.com/user-attachments/assets/d0121452-af5b-45a8-aff7-18f355be5440" />
