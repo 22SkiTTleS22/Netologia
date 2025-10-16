@@ -18,3 +18,6 @@ _________________________________________________
 <img width="1104" height="219" alt="image" src="https://github.com/user-attachments/assets/ef98f407-6919-4162-b640-0d8b63122059" />
 _________________________________________________
 Задача 5
+
+<img width="2399" height="429" alt="image" src="https://github.com/user-attachments/assets/069c1b3c-2c7e-4719-b765-b4dfac65c991" />
+Потому что путь по умолчанию для файла Compose — compose.yaml(предпочтительно).
