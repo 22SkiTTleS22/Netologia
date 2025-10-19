@@ -25,4 +25,5 @@ _________________________________________________
 <img width="1046" height="628" alt="image" src="https://github.com/user-attachments/assets/45db14d3-1ce9-41e3-9f10-98647aa59d4f" />
 <img width="1634" height="381" alt="image" src="https://github.com/user-attachments/assets/2b15f5a2-9f24-42ab-90e3-f55bf5404140" />
 <img width="522" height="1022" alt="image" src="https://github.com/user-attachments/assets/9bd8db31-a312-43a5-9e1c-9748a2ca50f9" />
+Предупреждение, что существует контейнер в текущем проекте, но он не описан в файле композа.
 <img width="2519" height="478" alt="image" src="https://github.com/user-attachments/assets/60704ff9-fdd1-40d4-9006-cee3bf32c47a" />
