@@ -21,3 +21,4 @@ _________________________________________________
 
 <img width="2399" height="429" alt="image" src="https://github.com/user-attachments/assets/069c1b3c-2c7e-4719-b765-b4dfac65c991" />
 Потому что путь по умолчанию для файла Compose — compose.yaml(предпочтительно).
+<img width="1046" height="628" alt="image" src="https://github.com/user-attachments/assets/45db14d3-1ce9-41e3-9f10-98647aa59d4f" />
