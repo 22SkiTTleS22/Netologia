@@ -21,4 +21,8 @@ _________________________________________________
 
 <img width="2399" height="429" alt="image" src="https://github.com/user-attachments/assets/069c1b3c-2c7e-4719-b765-b4dfac65c991" />
 Потому что путь по умолчанию для файла Compose — compose.yaml(предпочтительно).
+<img width="1009" height="336" alt="image" src="https://github.com/user-attachments/assets/30113243-bc05-4d9e-8969-ab1d7b772298" />
 <img width="1046" height="628" alt="image" src="https://github.com/user-attachments/assets/45db14d3-1ce9-41e3-9f10-98647aa59d4f" />
+<img width="1634" height="381" alt="image" src="https://github.com/user-attachments/assets/2b15f5a2-9f24-42ab-90e3-f55bf5404140" />
+<img width="522" height="1022" alt="image" src="https://github.com/user-attachments/assets/9bd8db31-a312-43a5-9e1c-9748a2ca50f9" />
+<img width="2519" height="478" alt="image" src="https://github.com/user-attachments/assets/60704ff9-fdd1-40d4-9006-cee3bf32c47a" />
