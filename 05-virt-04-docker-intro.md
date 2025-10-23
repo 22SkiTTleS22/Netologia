@@ -15,12 +15,11 @@ https://github.com/netology-code/shvirtd-example-python/compare/main...22SkiTTle
 6
 <img width="1333" height="200" alt="image" src="https://github.com/user-attachments/assets/d41fbed6-c9e9-4442-ab91-eda38e802819" />
 <img width="1331" height="50" alt="image" src="https://github.com/user-attachments/assets/e4b26d8a-cf83-4809-b3a6-19b718ce9b41" />
-
 <img width="1405" height="79" alt="image" src="https://github.com/user-attachments/assets/f5b28f6a-8b69-4eeb-8eaa-6e9c47e827f1" />
-
-
+<img width="1048" height="35" alt="image" src="https://github.com/user-attachments/assets/a86041b4-e21e-40f3-8c04-c20109b3c712" />
+<img width="1040" height="33" alt="image" src="https://github.com/user-attachments/assets/783dbc48-20ee-45a0-87a2-fd5e6b6dd254" />
+<img width="995" height="52" alt="image" src="https://github.com/user-attachments/assets/db427866-d974-423a-89d4-8195e49cf4b5" />
 6.1
 <img width="1349" height="199" alt="image" src="https://github.com/user-attachments/assets/c0cff8b9-dc52-44e1-9b87-5cd0810cabbe" />
 <img width="2126" height="289" alt="image" src="https://github.com/user-attachments/assets/7c2012c1-70aa-41d4-b46e-43b55d96a1bf" />
 <img width="2538" height="1332" alt="image" src="https://github.com/user-attachments/assets/9bcd73dd-721b-48d3-8ead-e1692a68e425" />
-
