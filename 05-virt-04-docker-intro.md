@@ -8,4 +8,7 @@ https://github.com/netology-code/shvirtd-example-python/compare/main...22SkiTTle
 <img width="576" height="190" alt="image" src="https://github.com/user-attachments/assets/b7d9d6cc-9a32-4a1c-8333-d08cd6bf8e52" />
 [vulnerabilities.csv](https://github.com/user-attachments/files/23099231/vulnerabilities.csv)
 
-3
+3.2
+<img width="2539" height="268" alt="image" src="https://github.com/user-attachments/assets/2e4ee32d-d335-4cab-ae0c-732229125610" />
+3.3
+<img width="2039" height="1199" alt="image" src="https://github.com/user-attachments/assets/a264f612-f9f0-46ec-9432-af6ac40b8a38" />
