@@ -14,6 +14,10 @@ https://github.com/netology-code/shvirtd-example-python/compare/main...22SkiTTle
 <img width="2539" height="268" alt="image" src="https://github.com/user-attachments/assets/2e4ee32d-d335-4cab-ae0c-732229125610" />
 3.3
 <img width="2039" height="1199" alt="image" src="https://github.com/user-attachments/assets/a264f612-f9f0-46ec-9432-af6ac40b8a38" />
+4
+<img width="2284" height="1245" alt="image" src="https://github.com/user-attachments/assets/399b817f-8316-43ff-a149-524b2949d30d" />
+картника после запросов хттп
+https://github.com/22SkiTTleS22/shvirtd-example-python
 6
 <img width="1333" height="200" alt="image" src="https://github.com/user-attachments/assets/d41fbed6-c9e9-4442-ab91-eda38e802819" />
 <img width="1331" height="50" alt="image" src="https://github.com/user-attachments/assets/e4b26d8a-cf83-4809-b3a6-19b718ce9b41" />
