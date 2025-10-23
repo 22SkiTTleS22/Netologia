@@ -3,6 +3,8 @@
 1.4
 https://github.com/netology-code/shvirtd-example-python/compare/main...22SkiTTleS22:shvirtd-example-python:main
 <img width="1628" height="1187" alt="image" src="https://github.com/user-attachments/assets/4f39e20f-54aa-4831-818e-fcbc17973879" />
+<img width="765" height="537" alt="image" src="https://github.com/user-attachments/assets/b5460c41-7015-48c7-9d26-c939d49ee28b" />
+
 
 2
 <img width="576" height="190" alt="image" src="https://github.com/user-attachments/assets/b7d9d6cc-9a32-4a1c-8333-d08cd6bf8e52" />
